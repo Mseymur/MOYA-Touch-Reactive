@@ -1,0 +1,2 @@
+#define SECRET_SSID "GenWaveAP1"
+#define SECRET_PASS "1234567890"
