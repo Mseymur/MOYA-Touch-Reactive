@@ -62,6 +62,10 @@ Created in 2 months (2025).
 *   **Seymur Mammadov**
 *   **Jakob Schnurrer**
 
+## 📄 License
+
+[License](license)
+
 ---
 
 *[Learn more about the project details here.](https://mseymur.framer.website/projects/genwave)*
